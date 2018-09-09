@@ -4,16 +4,12 @@
     </a>
     <h1 align="center">Fefsyo</h1>
     <br>
-    <h4 align="center">your way to learn new languages</h4>
+    <h4 align="center">Your way to learn new languages.</h4>
     <br>
 </p>
 
-Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
-rapidly creating small projects.
-
-The template contains the basic features including user login/logout and a contact page.
-It includes all commonly used configurations that would allow you to focus on adding new
-features to your application.
+Fefsyo is a web application, created to help people to learn a new languages, or to improve their skills. It uses an other
+method to learn them : learning with articles from the internet, get new vocabulary from them, discover new ways of prononcing sentences ...
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
 [![Total Downloads](https://img.shields.io/packagist/dt/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
