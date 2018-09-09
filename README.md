@@ -9,7 +9,7 @@
 </p>
 
 Fefsyo is a web application, created to help people to learn a new languages, or to improve their skills. It uses an other
-method to learn them : learning with articles from the internet, get new vocabulary from them, discover new ways of prononcing sentences ...
+method to learn them : learning with articles from the internet, get new vocabulary from them, discover new ways to prononce sentences ...
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
 [![Total Downloads](https://img.shields.io/packagist/dt/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
